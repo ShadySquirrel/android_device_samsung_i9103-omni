@@ -13,6 +13,7 @@
     },
     {
 	"repository": "ShadySquirrel/proprietary_vendor_samsung",
-	"target_path": "vendor/samsung"
+	"target_path": "vendor/samsung",
+	"remote": "github"
     }
 ]
