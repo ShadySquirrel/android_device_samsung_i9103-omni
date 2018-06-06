@@ -9,7 +9,8 @@
     },
     {
         "repository": "ShadySquirrel/android_kernel_samsung_n1-omni",
-        "target_path": "kernel/samsung/n1"
+        "target_path": "kernel/samsung/n1",
+	"remote": "github"
     },
     {
 	"repository": "ShadySquirrel/proprietary_vendor_samsung",
