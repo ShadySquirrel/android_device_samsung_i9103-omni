@@ -8,7 +8,7 @@
         "target_path": "packages/apps/SamsungServiceMode"
     },
     {
-        "repository": "android_kernel_samsung_n1",
+        "repository": "ShadySquirrel/android_kernel_samsung_n1-omni",
         "target_path": "kernel/samsung/n1"
     },
     {
